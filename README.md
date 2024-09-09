@@ -1,12 +1,12 @@
 # Noughts-and-Crosses
-I plaining to going create a Noughts & Crosses (tick tac toe)game with using html and css and javascrpit 
-to help understand funtermeal of the Javascript which i am curnnely learning here but i need work real world practice of combinme in 
+I planning to going create a Noughts & Crosses (tick tac toe)game with using html and css and javascrpit 
+to help understand funtermeal of the Javascript which i am currently learning here but I need work real world practice of combinme in 
 
- frist step is create the block code for the bacic website
- in VSC they have block code html5 which give quick start start promgraming 
- but i need put in css and javascript in so every thing should link together 
+ first step is create the block code for the Bacic website
+ in VSC they have block code html5 which gives a quick start start promoting 
+ but I need put in css and javascript in so every thing should link together 
 
- i need make the borad for the game it self whihc i going used the <table > 
+ I need to make the borad for the game itself whihc i going used the <table > 
 
 <body>
   <table>
